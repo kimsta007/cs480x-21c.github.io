@@ -62,11 +62,11 @@ Reading:
 VAD Chapters 3, 4   
 
 ### 08-Feb Mon   
-Topic: [Visual Channels](https://drive.google.com/drive/folders/1gFqhnmu3hpJqRSBxn41W1OqtGC_LOGcP?usp=sharing)  
+Topic: Visual Channels  
 Due: Assignment 1 -- 11:59pm   
 
 ### 11-Feb Thu   
-Topic: [Color](https://drive.google.com/drive/folders/1gFqhnmu3hpJqRSBxn41W1OqtGC_LOGcP?usp=sharing) 
+Topic: Color 
 
 ## Week 4 (Feb 15 - Feb 19)
 
@@ -74,7 +74,7 @@ Reading:
 VAD Chapters 10, 5
 
 ### 15-Feb Mon   
-Topic: [Visualizing Tabular Data](https://drive.google.com/drive/folders/1gFqhnmu3hpJqRSBxn41W1OqtGC_LOGcP?usp=sharing)
+Topic: Visualizing Tabular Data
 
 Due: Assignment 2 -- 11:59pm   
 Assigned: Assignment 3 - Replicating a Classic Experiment   
