@@ -16,10 +16,10 @@ Office Hours -> TBA @ FL136
 
 TAs   
 Noëlle Rakotondravony
-Office Hours -> Tuesdays and Thursdays from 9am - 11am   
+Office Hours -> TBA   
 in FL A22
 
 SAs  
-Office Hours -> Monday and Wednesday from 3-5pm in FL A22.  
-Alexander Wurts   
+Erich Schwarzrock   
+Office Hours -> TBA   
 
