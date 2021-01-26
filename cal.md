@@ -52,9 +52,12 @@ Suggested Reading:
 Topic: Data Representation  
 Due: Assignment 0 -- 11:59pm   
 
-### 04-Feb Mon   
+### 04-Feb Thu   
 Topic: Visualization Design   
 Assigned: Assignment 2 - Data Visualization, 7 ways   
+
+### 05-Feb Fri   
+Due: Assignment 1 -- 11:59pm   
 
 ## Week 3 (Feb 08 - 12)
 
@@ -63,10 +66,13 @@ VAD Chapters 3, 4
 
 ### 08-Feb Mon   
 Topic: Visual Channels  
-Due: Assignment 1 -- 11:59pm   
 
 ### 11-Feb Thu   
 Topic: Color 
+Assigned: Assignment 3 - Replicating a Classic Experiment   
+
+### 12-Feb Fri
+Due: Assignment 2 -- 11:59pm   
 
 ## Week 4 (Feb 15 - Feb 19)
 
@@ -75,13 +81,10 @@ VAD Chapters 10, 5
 
 ### 15-Feb Mon   
 Topic: Visualizing Tabular Data
-
-Due: Assignment 2 -- 11:59pm   
-Assigned: Assignment 3 - Replicating a Classic Experiment   
+Assigned: Final Project
 
 ### 18-Feb Thu   
 Topic: Visualizing Tabular Data, 2    
-Assigned: Final Project
 
 ## Week 5 (Feb 22 - 26)
 
@@ -95,30 +98,32 @@ Assigned: Assignment 4 - Multiple Views
 ### 25-Feb Thu   
 Topic: Visualizing Spatial Data, 2   
 
+### 26-Feb Fri
+Due: Assignment 3 -- 11:59pm   
+
 ## Week 6 (Mar 01 - 05)
 Reading:   
 VAD Chapters 9, 11
 
 ### 01-Mar Mon   
 Topic: Visualizing Networks   
-Due: Assignment 3 -- 11:59pm   
+Due: (Brief!) Project Proposals -- 11:59pm  
 
 ### 04-Mar Thu   
 Topic: Visualizing Trees / Hierarchies   
 
 ### 05-Mar Fri   
-Due: Project Proposals -- 11:59pm  
+Due: Assignment 4 -- 11:59pm   
 
 ## Week 7 (Mar 08 - 11)   
 Reading: 
 VAD Chapters 12, 13
 
 ### 08-Mar Mon   
-Topic: Visualization Design   
+Topic: More on Interaction   
 
 ### 11-Mar Thu   
 Topic: (Tentative) Final Project Workday  
-Due: Assignment 4 -- 11:59pm   
 No Reflection
 
 ## Week 8 (Mar 15 - 19)   
