@@ -9,10 +9,6 @@ Course Description
 
 In this course we study the theory and practice of data visualization, with partial focus towards problems and applications in biology. Topics include fundamental principles, concepts, and techniques of visualization and how visualization can be used to uncover and communicate data-driven insights.
 
-Course slides
----
-You can access the course slides [here](https://drive.google.com/drive/folders/1gFqhnmu3hpJqRSBxn41W1OqtGC_LOGcP?usp=sharing) or on Canvas once it's set up. 
-
 Learning Goals
 ---
 
@@ -69,8 +65,6 @@ Programming Language
 We'll be using [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank"} with [d3.js](https://d3js.org/){:target="_blank"} to develop visualizations in this course.
 
 You also may have heard of [Processing](https://processing.org/){:target="_blank"}, which is a programming language that sits above Java and facilitates rapid development of graphics applications. If you're experienced with Java, Processing is fun to try.
-
-The first person who sends me a pull request correcting a typo or broken link will receive a tech sticker of their choosing from my collection.
 
 Discussion / Questions
 ---

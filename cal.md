@@ -30,7 +30,7 @@ h2, ul {
 
 </style>
 
-**25-Jan-2021: Don't consider the calendar final while this message is here. We may tweak it.**
+**25-Jan-2021: Don't consider the calendar final while this message is here. Topics and assignment due dates will change in the first week or two.**
 
 ## Week 1 (Jan 25 - 29)
 
