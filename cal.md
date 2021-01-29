@@ -39,6 +39,10 @@ Topic: Overview of Visualization | Intro to Tools
 Assigned: Assignment 0 - Course Survey   
 Assigned: Assignment 1 - Hello World: GitHub and d3   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/ETgJOxnJ4VtGrSy_1G-6EdgBM9tCMkB9xcnIxW-kqqqdHA?e=1EPgIg)  
+[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ETunJKUEx61ArpK7LGjA-PcBdiCAlHos2isOp56RnCyfVA?e=TtAXKg)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ESxXsFyiC1VPkGHbcKWql8MBvvrs4UDZqB2Jq3XZZd2Ufg?e=fmc6QU)  
+
 ## Week 2 (Feb 01 - 05)
 
 Reading:   
