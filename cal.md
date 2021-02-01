@@ -56,6 +56,9 @@ Suggested Reading:
 Topic: Data Representation  
 Due: Assignment 0 -- 11:59pm   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EXqeuKbZtNZDl1oNWYHonicBcJVhEkJYgS-AKT0FvpY0LQ?e=2zo8FH)  
+[Code](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ERk3D4pmBvpGiLPQd2ZlDVsBuasu34p9aDs5tpXYumjRrQ?e=uu55yz)  
+
 ### 04-Feb Thu   
 Topic: Visualization Design   
 Assigned: Assignment 2 - Data Visualization, 7 ways   
