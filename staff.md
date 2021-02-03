@@ -21,9 +21,9 @@ in FL A22
 
 SAs  
 Erich Schwarzrock   
-Office Hours -> Fri 4-5
-Join Zoom Meeting
-https://wpi.zoom.us/j/91056622402
+Office Hours -> Fri 4-5 
+Join Zoom Meeting   
+https://wpi.zoom.us/j/91056622402   
 Meeting ID: 910 5662 2402
 
 
