@@ -57,11 +57,14 @@ Topic: Data Representation
 Due: Assignment 0 -- 11:59pm   
 
 [Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EXqeuKbZtNZDl1oNWYHonicBcJVhEkJYgS-AKT0FvpY0LQ?e=2zo8FH)  
-[Code](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ERk3D4pmBvpGiLPQd2ZlDVsBuasu34p9aDs5tpXYumjRrQ?e=uu55yz)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ERk3D4pmBvpGiLPQd2ZlDVsBuasu34p9aDs5tpXYumjRrQ?e=uu55yz)  
 
 ### 04-Feb Thu   
 Topic: Visualization Design   
 Assigned: Assignment 2 - Data Visualization, 7 ways   
+
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/Ecyt_8JzfSREtw5Cd_5kMo0B949gBqQBbLDj4NMgtPMTZw?e=TkC726)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ES5j-qWkIkpEqpnVaLfwN7wBpdYCf2U9A20z4nkTzWbf6Q?e=Zr0HKD)  
 
 ### 05-Feb Fri   
 Due: Assignment 1 -- 11:59pm   
