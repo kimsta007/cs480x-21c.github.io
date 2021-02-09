@@ -77,6 +77,10 @@ VAD Chapters 3, 4
 ### 08-Feb Mon   
 Topic: Visual Channels  
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EY3tyl_GEw9EubDZAfguF7YBcrQedfKhqaCmaiCrxoFepA?e=BWzmKv) (Note: didn't realized until upload that it looks distorted. Will investigate!)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/Ee4vBGKqRpNImDalcv-3KgkBBuKf_R63eGom7yYp-2es4Q?e=UfH2bV)  
+
+
 ### 11-Feb Thu   
 Topic: Color 
 Assigned: Assignment 3 - Replicating a Classic Experiment   
