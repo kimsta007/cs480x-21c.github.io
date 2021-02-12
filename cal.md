@@ -82,8 +82,11 @@ Topic: Visual Channels
 
 
 ### 11-Feb Thu   
-Topic: Color 
+Topic: Color   
 Assigned: Assignment 3 - Replicating a Classic Experiment   
+
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/Ec4s2x0RH0pNpuRM-tK14KMB2m4eCl4NnlOMvlHF0jhSnA?e=bX4mKz)   
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EaWUAZfgHZlIlGuTPpXOQOoBQ_NU9sP_hzR117cZ2XhOTQ?e=AAzfQO)  
 
 ### 12-Feb Fri
 Due: Assignment 2 -- 11:59pm   
