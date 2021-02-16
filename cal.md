@@ -98,10 +98,14 @@ VAD Chapters 10, 5
 
 ### 15-Feb Mon   
 Topic: Visualizing Tabular Data
-Assigned: Final Project
+
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EW0sDi9dI6hMh30RCZnMYGwBVoizkcPbl36yC-JT1d_tBQ?e=ErQR9m)   
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ERRsxO0f0QNHtTrt_6yqu1UBAWcosHfUBmz5hQaCQi-7rA?e=TI8ji)  
+
 
 ### 18-Feb Thu   
 Topic: Visualizing Tabular Data, 2    
+Assigned: Final Project
 
 ## Week 5 (Feb 22 - 26)
 
