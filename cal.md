@@ -107,6 +107,8 @@ Topic: Visualizing Tabular Data
 Topic: Visualizing Tabular Data, 2    
 Assigned: Final Project
 
+[Slides](https://wpi0-my.sharepoint.com/:p:/g/personal/ltharrison_wpi_edu/EZEe57m-A2NEniBDVrN_yd4B8rF4ZHsR5A-PfJ0iJrwTsg?e=Ut6Nsn)
+
 ## Week 5 (Feb 22 - 26)
 
 Reading:   
@@ -115,6 +117,9 @@ VAD Chapters 7, 8
 ### 22-Feb Mon   
 Topic: Visualizing Spatial Data   
 Assigned: Assignment 4 - Multiple Views   
+
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EV2YdLH3OARNj0BSI966C-EBaYPTtmdbXM0KMZq_KxwD0g?e=GuMwlR)
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EVueCSE7GZFBtJLY_CUNfo4BxUHzov1iQH0BfmxCeda0Dw?e=PHjpeS)
 
 ### 25-Feb Thu   
 Topic: Visualizing Spatial Data, 2   
