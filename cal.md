@@ -118,11 +118,16 @@ VAD Chapters 7, 8
 Topic: Visualizing Spatial Data   
 Assigned: Assignment 4 - Multiple Views   
 
-[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EV2YdLH3OARNj0BSI966C-EBaYPTtmdbXM0KMZq_KxwD0g?e=GuMwlR)
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EV2YdLH3OARNj0BSI966C-EBaYPTtmdbXM0KMZq_KxwD0g?e=GuMwlR)  
 [Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EVueCSE7GZFBtJLY_CUNfo4BxUHzov1iQH0BfmxCeda0Dw?e=PHjpeS)
 
 ### 25-Feb Thu   
 Topic: Visualizing Spatial Data, 2   
+
+[Video 1](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EatU0oKUtR5EpyxJ2RK1TUIBm599KlN3iqsJGYysg7aCGg?e=ZSuVHa)  
+[Video 2](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EdrXieEqGINEjbOWTU3gOtcBW6rRzKwj1lM7XOEQy_URJA?e=wdzv49)  
+[Example Bootstrap CIs in R](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EdrXieEqGINEjbOWTU3gOtcBW6rRzKwj1lM7XOEQy_URJA?e=wdzv49)  
+[Make a Map in d3 code](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EdrXieEqGINEjbOWTU3gOtcBW6rRzKwj1lM7XOEQy_URJA?e=wdzv49)  
 
 ### 26-Feb Fri
 Due: Assignment 3 -- 11:59pm   
