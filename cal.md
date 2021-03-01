@@ -138,13 +138,10 @@ VAD Chapters 9, 11
 
 ### 01-Mar Mon   
 Topic: Visualizing Networks   
-Due: (Brief!) Project Proposals -- 11:59pm  
 
 ### 04-Mar Thu   
 Topic: Visualizing Trees / Hierarchies   
-
-### 05-Mar Fri   
-Due: Assignment 4 -- 11:59pm   
+Due: (Brief!) Project Proposals -- 11:59pm  
 
 ## Week 7 (Mar 08 - 11)   
 Reading: 
@@ -156,6 +153,9 @@ Topic: More on Interaction
 ### 11-Mar Thu   
 Topic: (Tentative) Final Project Workday  
 No Reflection
+
+### 12-Mar Fri
+Due: Assignment 4 -- 11:59pm   
 
 ## Week 8 (Mar 15 - 19)   
 
