@@ -139,6 +139,9 @@ VAD Chapters 9, 11
 ### 01-Mar Mon   
 Topic: Visualizing Networks   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/Ec6sCIEXuTxAtVzMSJBRxTABDnjy7Ucy16DEf3_2VCMlZA?e=8lHLMB)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EX47uoAZMvxNrtHi7C76B08BZa7xMFYFcmNpR3Ow7xW-vQ?e=y18ugg)
+
 ### 04-Mar Thu   
 Topic: Visualizing Trees / Hierarchies   
 Due: (Brief!) Project Proposals -- 11:59pm  
