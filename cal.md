@@ -146,6 +146,10 @@ Topic: Visualizing Networks
 Topic: Visualizing Trees / Hierarchies   
 Due: (Brief!) Project Proposals -- 11:59pm  
 
+- [Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EfriYkTBcQlLurk2LV0YGjcBG1dpj8aJwqF-lqZP4APAWA?e=iGPNZq)  
+- [Slides 1](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/Ea7CyMcMCB9Dry0AtTWm4uQBekLmhFKlKa98m2zX-MPYbQ?e=JM154r)  
+- [Slides 2](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EXn4oKhi_kpLpBDDEsZP3uwBjPqJHPOJrijDZwntpYBjPQ?e=acgNEx)  
+
 ## Week 7 (Mar 08 - 11)   
 Reading: 
 VAD Chapters 12, 13
