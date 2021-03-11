@@ -127,7 +127,7 @@ Topic: Visualizing Spatial Data, 2
 [Video 1](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EatU0oKUtR5EpyxJ2RK1TUIBm599KlN3iqsJGYysg7aCGg?e=ZSuVHa)  
 [Video 2](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EdrXieEqGINEjbOWTU3gOtcBW6rRzKwj1lM7XOEQy_URJA?e=wdzv49)  
 [Example Bootstrap CIs in R](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EdrXieEqGINEjbOWTU3gOtcBW6rRzKwj1lM7XOEQy_URJA?e=wdzv49)  
-[Make a Map in d3 code](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EdrXieEqGINEjbOWTU3gOtcBW6rRzKwj1lM7XOEQy_URJA?e=wdzv49)  
+[Make a Map in d3 code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ESyRc5olk4FDsk9bdV7VDVsBCUCRoTbzyPnZ7zipJC2t0w?e=rkzWgs)  
 
 ### 26-Feb Fri
 Due: Assignment 3 -- 11:59pm   
