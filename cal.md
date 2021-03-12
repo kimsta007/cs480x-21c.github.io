@@ -171,5 +171,7 @@ Due: Assignment 4 -- 11:59pm
 
 ### 15-Mar Mon   
 Topic: Recap Session  
+
+### 17-Mar Wed   
 Due: Final Project -- 11:59pm   
 
