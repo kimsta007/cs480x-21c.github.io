@@ -62,7 +62,7 @@ Due: Assignment 0 -- 11:59pm
 [Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EXqeuKbZtNZDl1oNWYHonicBcJVhEkJYgS-AKT0FvpY0LQ?e=2zo8FH)  
 [Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ERk3D4pmBvpGiLPQd2ZlDVsBuasu34p9aDs5tpXYumjRrQ?e=uu55yz)  
 
-### 21-Jan Fri   **
+### 21-Jan Fri   
 Due: Assignment 1 -- 11:59pm   
 
 ## Week 3 (Jan 24 - 28)
