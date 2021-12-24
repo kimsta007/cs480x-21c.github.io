@@ -41,7 +41,7 @@ Suggested Reading:
 [Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)   
 [Dear Data](http://www.dear-data.com/theproject) (the background and entries themselves)   
 
-### 12-Jan Wed   
+### 12-Jan Wed (Monday Schedule)
 Topic: Overview of Visualization | Intro to Tools   
 Assigned: Assignment 0 - Course Survey   
 Assigned: Assignment 1 - Hello World: GitHub and d3   
